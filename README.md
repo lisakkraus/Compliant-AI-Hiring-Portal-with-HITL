@@ -9,3 +9,9 @@ This is a workflow for an AI hiring portal with governance that achieves regulat
 * Currently, most AI hiring systems automatically reject outliers, which could be a surprisingly good match. This system ensures they are batched separately for human review.
 * The system also shows a sample dashboard.
 
+**THESE WORKFLOWS ARE INCOMPLETE AND HYPOTHETICAL.  DO NOT USE THEM WITHOUT EXTREME MODIFICATION.**
+
+**All proprietary code has been removed.**
+
+
+
